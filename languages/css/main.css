@@ -1,0 +1,8 @@
+/* GitHub Larp - CSS runner */
+/* This file demonstrates CSS compatibility on Windows natively */
+/* No emulator needed - CSS runs natively in browsers on Windows */
+body {
+    font-family: sans-serif;
+    background: #f0f0f0;
+    padding: 20px;
+}

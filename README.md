@@ -19,21 +19,22 @@ All source files are hidden inside the `languages/` directory, organized by lang
 
 ## Purpose
 
-This repository was generated to produce a solid-green contribution graph on GitHub by making 20+ commits across multiple programming languages.
-
-## Usage
-
-Run `commit_larp.sh` to generate additional commits, or manually add files to the language directories.
+This repository was generated to produce a solid-green contribution graph on GitHub by making commits across multiple programming languages.
 
 ## Windows Compatibility
 
-This project contains pure source code files (C, Python, HTML, etc.) that run natively on Windows via:
-- **Python**: Built into Windows 10/11 or available via [python.org](https://python.org)
-- **C**: Compiles with [MinGW](https://www.mingw.org) or [Visual C++](https://visualstudio.microsoft.com/)
-- **Go**: [Go for Windows](https://go.dev/doc/windows)
-- **Rust**: [Rustup for Windows](https://rust-lang.org/learn/get-started)
-- **Java**: [Java SE Development Kit for Windows](://adoptium.net)
-- **Ruby**: [RubyInstaller for Windows](://rubyinstaller.org)
-- **PHP**: [PHP for Windows](://windows.php.net)
+This project contains pure source code files that run natively on Windows via:
+- **Python**: Built into Windows 10/11 or available via python.org
+- **C**: Compiles with MinGW or Visual C++
+- **Go**: Go for Windows
+- **Rust**: Rustup for Windows
+- **Java**: JDK for Windows
+- **Ruby**: RubyInstaller for Windows
+- **PHP**: PHP for Windows
+- **CSS**: Runs in any Windows browser
 
 No emulators or Linux compatibility layers required.
+
+## Usage
+
+Run `./git-larp.sh` to generate additional commits, or manually add files to the language directories.
